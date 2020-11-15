@@ -1,4 +1,4 @@
-{ [
+[
   {"type": "Balcony Level", 
   "price":1170, 
   "inventory":12
@@ -9,6 +9,5 @@
   },
  {"type": "Curtside", 
   "price":27777, 
-  "inventory":24
+  "inventory":15
   }]
-}
